@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "472074848755",
+    "project_id": "flightticketapp-b1c0c",
+    "storage_bucket": "flightticketapp-b1c0c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472074848755:android:f73d87180e890234816a86",
+        "android_client_info": {
+          "package_name": "com.kholidaymaps.flight_tickets"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaa_7rlqbM24g292AHZFvGqfq-T4r_yRs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
